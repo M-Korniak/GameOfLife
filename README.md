@@ -13,8 +13,8 @@ The program reads the description of the initial generation. In a loop, it displ
 
 The program recognizes the following commands:
 
-'.' - End the program.
-N (a positive integer) - Calculate the N-th generation.
-An empty line - Calculate the next generation.
-'0' - Generate a description of the current generation.
-'w' 'k' - Change the coordinates of the upper-left corner of the window to row w and column 
+- '.' - End the program.
+- N (a positive integer) - Calculate the N-th generation.
+- An empty line - Calculate the next generation.
+- '0' - Generate a description of the current generation.
+- 'w' 'k' - Change the coordinates of the upper-left corner of the window to row w and column 
